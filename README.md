@@ -1,2 +1,0 @@
-# walls
-Minimalistic Wallpaper Collection
